@@ -9,8 +9,7 @@ http://127.0.0.1:8000/api and http://127.0.0.1:8000/api/4
 
 
 
-
-Steps to follow:
+Steps to follow to run the service:
 
 1.git clone https://github.com/PoonamJChavan/RestApi.git
 
