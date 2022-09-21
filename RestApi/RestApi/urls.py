@@ -19,5 +19,6 @@ from RestApi import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', views.get_List)
+    path('api/', views.get_List),
+    path('api/<int:id>',views.api_methods),
 ]
